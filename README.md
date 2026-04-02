@@ -6,5 +6,3 @@
 ### 학과: 통계학과
 
 # Fetch & Merge
-A
-B
